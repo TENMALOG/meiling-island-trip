@@ -1,0 +1,14 @@
+# Local research, source snapshots and QA screenshots.
+verification/
+
+# Generated deployment output and local tooling.
+_site/
+dist/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+.env
+.env.*
+.DS_Store
+Thumbs.db
